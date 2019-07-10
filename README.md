@@ -1,2 +1,2 @@
-# scratch
-all about me
+# All About me Scratch Project
+Scratch
